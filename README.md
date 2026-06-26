@@ -370,6 +370,7 @@
 - [11 AI Concepts Explained, Simply](https://newsletter.systemdesign.one/p/ai-concepts)
 - [Agentic AI Use Cases in Software Development Workflow](https://newsletter.systemdesign.one/p/agentic-ai-use-cases)
 - [30 Agentic Engineering Concepts, Explained Simply](https://newsletter.systemdesign.one/p/agentic-engineering)
+- [How Agent to Agent Protocol Works](https://newsletter.systemdesign.one/p/agent-to-agent-protocol)
 
 #### C ai
 
